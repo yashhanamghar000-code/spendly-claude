@@ -1,0 +1,8 @@
+venv/
+__MACOSX/
+.DS_Store
+__pycache__/
+*.pyc
+.env
+*.db
+.pytest_cache/
